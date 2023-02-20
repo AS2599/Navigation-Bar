@@ -37,3 +37,18 @@ html {
    width: 100px;
    background-color: white;
  }
+ .cardList {
+   height: 300px;
+   border: 1px solid;
+   display: flex;  
+   justify-content: space-evenly; 
+ }
+ .cardList div {
+   margin: 25px;
+ }
+ .card {
+   height: 220px;
+   width: 175px;
+   border: 1px solid;
+   
+ }
