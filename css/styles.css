@@ -38,8 +38,8 @@ html {
    background-color: white;
  }
  .cardList {
-   height: 300px;
-   border: 1px solid;
+   height: 301px;
+   border: 2px solid;
    display: flex;  
    justify-content: space-evenly; 
  }
@@ -52,3 +52,21 @@ html {
    border: 1px solid;
    
  }
+ .cardss {
+  height: 220px;
+  width: 175px;
+  border: 1px solid;
+  
+}
+.cardsss {
+  height: 220px;
+  width: 175px;
+  border: 1px solid;
+  
+}
+.cardssss {
+  height: 220px;
+  width: 175px;
+  border: 1px solid;
+  
+}
